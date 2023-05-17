@@ -1,8 +1,8 @@
 # ReiujiChat
-The free, open source messaging app for you! ✨
+The free, open source matrix client for you! ✨
 ## Our Mission
-Our mission is to make a decentralized Discord/Slack alternative for the community by the community!
-We also wish to natively support **[Matrix](https://matrix.org/)**, to give even more possibilites!
+Our mission is to make a client that feels like Discord with several other benefits, like Discord bridging!
+If you're thinking of getting into Matrix, please refer to the **[Matrix](https://matrix.org/)** website.
 ## Our Progress
 To keep up on what we're working on with **ReiujiChat**, simply check out the official [Trello Board.](https://trello.com/b/EEppMNBm/reiujichat)
 ## How can I contribute?
