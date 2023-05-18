@@ -1,3 +1,5 @@
+![Reiuji Chat](https://github.com/ReiujiChat/website/assets/111249711/0b580bc0-b733-4678-bd1d-bc38d6f69966)
+
 # ReiujiChat
 The free, open source matrix client for you! ✨
 ## Our Mission
